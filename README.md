@@ -7,3 +7,9 @@ Things to note:
 - Purple Sticky notes are for black-belt-like features
 
 Most of these are harder than the actual exams and you should not attempt unless you have finished everything else!
+
+Wireframes in order from easiest to hardest:
+- Tasks (red features only)
+- Questions
+- Inbox
+- Dating
