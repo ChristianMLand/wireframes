@@ -1,6 +1,6 @@
 # wireframes
 
-Some basic wireframes I made for practice
+Some basic wireframes I made for Coding Dojo students to practice
 
 Things to note:
 - Yellow sticky notes are for red-belt-like features
